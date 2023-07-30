@@ -1,0 +1,14 @@
+{
+    "questions": [
+        {
+            "question": "What is the capital of France?",
+            "answer": "Paris",
+            "additional_info": "Paris is known for its rich history, art, and culture."
+        },
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "answer": "Mars",
+            "additional_info": "Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System."
+        }
+    ]
+}
